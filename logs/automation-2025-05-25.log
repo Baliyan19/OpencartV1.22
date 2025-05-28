@@ -1,0 +1,65 @@
+00:26:47.020 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kashi\eclipse-workspace\OpenCartV1.21\Master.xml
+
+00:37:04.095 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kashi\eclipse-workspace\OpenCartV1.21\Grouping.xml
+
+00:40:28.164 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kashi\eclipse-workspace\OpenCartV1.21\Master.xml
+
+00:41:15.554 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kashi\eclipse-workspace\OpenCartV1.21\Master.xml
+
+00:41:46.239 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kashi\eclipse-workspace\OpenCartV1.21\Master.xml
+
+00:48:04.675 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kashi\eclipse-workspace\OpenCartV1.21\Master.xml
+
+00:48:10.513 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest*********
+00:48:10.583 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********clicked on My account Link*********
+00:48:12.099 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********clicked on My Register Link*********
+00:48:13.110 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Providing customer Details*********
+00:48:15.254 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Validating Expected Message*********
+00:48:15.284 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Finished TC_001_AccountRegistrationTest*********
+00:48:19.214 [main] INFO  testCases.TC_002_LoginPage - *****Starting TC_002*********
+00:48:19.502 [main] INFO  testCases.TC_002_LoginPage - ************Setting UserInfo***************
+00:49:30.898 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kashi\eclipse-workspace\OpenCartV1.21\Master.xml
+
+00:53:18.733 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kashi\eclipse-workspace\OpenCartV1.21\Master.xml
+
+00:53:23.448 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest*********
+00:53:23.512 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********clicked on My account Link*********
+00:53:24.984 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********clicked on My Register Link*********
+00:53:25.994 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Providing customer Details*********
+00:53:28.039 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Validating Expected Message*********
+00:53:28.061 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Finished TC_001_AccountRegistrationTest*********
+00:53:32.132 [main] INFO  testCases.TC_002_LoginPage - *****Starting TC_002*********
+00:53:32.507 [main] INFO  testCases.TC_002_LoginPage - ************Setting UserInfo***************
+00:53:33.574 [main] INFO  testCases.TC_002_LoginPage - *****Finished TC_002*********
+00:54:00.074 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kashi\eclipse-workspace\OpenCartV1.21\Master.xml
+
+00:58:56.760 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kashi\eclipse-workspace\OpenCartV1.21\Master.xml
+
+00:59:16.047 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest*********
+00:59:16.140 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********clicked on My account Link*********
+00:59:25.495 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********clicked on My Register Link*********
+00:59:26.499 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Providing customer Details*********
+00:59:28.682 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Validating Expected Message*********
+00:59:28.716 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Finished TC_001_AccountRegistrationTest*********
+00:59:32.562 [main] INFO  testCases.TC_002_LoginPage - *****Starting TC_002*********
+00:59:32.860 [main] INFO  testCases.TC_002_LoginPage - ************Setting UserInfo***************
+00:59:33.758 [main] INFO  testCases.TC_002_LoginPage - *****Finished TC_002*********
+13:25:24.553 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kashi\eclipse-workspace\OpenCartV1.21\Master.xml
+
+13:25:30.718 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest*********
+13:25:30.807 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********clicked on My account Link*********
+13:25:32.315 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********clicked on My Register Link*********
+13:25:33.335 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Providing customer Details*********
+13:25:35.440 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Validating Expected Message*********
+13:25:35.475 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Finished TC_001_AccountRegistrationTest*********
